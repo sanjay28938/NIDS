@@ -1,0 +1,23 @@
+# Large files (do not upload to GitHub)
+data/country_asn.csv
+models/ids_model.pkl
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
